@@ -1,5 +1,4 @@
 variable "subscription_id" {
-{
   type    = string
   default = "6bd66d37-c12d-4d2a-8dq3-b98945fjj4cf1"
 }
